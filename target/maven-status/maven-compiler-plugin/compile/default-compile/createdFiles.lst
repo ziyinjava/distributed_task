@@ -1,0 +1,6 @@
+com\itheima\task\schedule\TaskConfig.class
+com\itheima\task\schedule\AbstractScheduledTask.class
+com\itheima\task\schedule\IPUtils.class
+com\itheima\task\schedule\TaskThreadFactory.class
+com\itheima\task\schedule\MyTask.class
+com\itheima\task\TaskApplication.class
